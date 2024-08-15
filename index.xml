@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<aptech>
+    <student>
+        <name>John</name>
+        <age>14</age>
+        <rollno>7</rollno>
+        <class>matric</class>
+    </student>
+
+    <student>
+        <name>hassan</name>
+        <age>15</age>
+        <rollno>8</rollno>
+        <class>matric</class>
+    </student>
+
+    <student>
+        <name>umar</name>
+        <age>16</age>
+        <rollno>9</rollno>
+        <class>matric</class>
+    </student>
+
+    <student>
+        <name>mateen</name>
+        <age>17</age>
+        <rollno>10</rollno>
+        <class>matric</class>
+    </student>
+</aptech>
